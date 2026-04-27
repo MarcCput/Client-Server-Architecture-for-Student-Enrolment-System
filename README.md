@@ -17,4 +17,4 @@ It demonstrates a **client-server architecture** with domain-driven design, focu
 ---
 
 ## 🏗️ Project Structure
-![App Screenshot](images/screenshot.png)
+<img width="260" height="643" alt="Screenshot 2026-04-27 173709" src="https://github.com/user-attachments/assets/a3cd80ac-2326-4ab8-8e2d-bc6be6a9fda2" />
