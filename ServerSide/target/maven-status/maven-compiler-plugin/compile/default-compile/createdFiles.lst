@@ -1,0 +1,14 @@
+za\ac\cput\serverside\gui\AdminGUI$2.class
+za\ac\cput\domain\Student.class
+za\ac\cput\serverside\ServerSide.class
+za\ac\cput\serverside\dao\StudentDAO.class
+za\ac\cput\domain\Enrolment.class
+za\ac\cput\serverside\gui\AdminGUI.class
+za\ac\cput\serverside\gui\AdminGUI$1.class
+za\ac\cput\serverside\dao\EnrolmentDAO.class
+za\ac\cput\serverside\gui\StudentGUI.class
+za\ac\cput\serverside\connection\DBConnection.class
+za\ac\cput\serverside\gui\LoginGUI.class
+za\ac\cput\serverside\dao\CourseDAO.class
+za\ac\cput\serverside\gui\StudentGUI$1.class
+za\ac\cput\domain\Course.class

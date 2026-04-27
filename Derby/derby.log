@@ -1,0 +1,37 @@
+Fri Oct 17 19:45:56 SAST 2025 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Fri Oct 17 19:45:56 SAST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0199-f347-3b04-000057e15e2e 
+on database directory C:\Users\Sabel\Desktop\Derby\StudentEnrolmentDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@11a4022a 
+Loaded from file:/C:/Program%20Files/Java/jdk-17/Db/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=24.0.2+12
+user.dir=C:\Program Files\Java\jdk-17\Db\db-derby-10.14.2.0-bin
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Sabel\Desktop\Derby
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Oct 17 19:45:58 SAST 2025:
+Shutting down instance a816c00e-0199-f347-3b04-000057e15e2e on database directory C:\Users\Sabel\Desktop\Derby\StudentEnrolmentDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@11a4022a 
+Fri Oct 17 19:45:58 SAST 2025 Thread[#31,DRDAConnThread_3,5,main] (DATABASE = StudentEnrolmentDB), (DRDAID = {2}), Database 'StudentEnrolmentDB' shutdown.
+----------------------------------------------------------------
+Fri Oct 17 19:46:14 SAST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6ede40af-0199-f347-3b04-000057e15e2e 
+on database directory C:\Users\Sabel\Desktop\Derby\StudentEnrolmentDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@11a4022a 
+Loaded from file:/C:/Program%20Files/Java/jdk-17/Db/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=24.0.2+12
+user.dir=C:\Program Files\Java\jdk-17\Db\db-derby-10.14.2.0-bin
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Sabel\Desktop\Derby
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Oct 17 20:10:41 SAST 2025: Shutting down Derby engine
+----------------------------------------------------------------
+Fri Oct 17 20:10:41 SAST 2025:
+Shutting down instance 6ede40af-0199-f347-3b04-000057e15e2e on database directory C:\Users\Sabel\Desktop\Derby\StudentEnrolmentDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@11a4022a 
+----------------------------------------------------------------
