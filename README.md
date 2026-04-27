@@ -41,3 +41,13 @@ It demonstrates a **client-server architecture** with domain-driven design, focu
 - Uses Apache Derby (embedded)
 - Database files are located in the /Derby directory
 - Automatically connects when the application starts
+
+
+### Visual 
+## Login
+<img width="290" height="246" alt="Screenshot 2026-04-27 145821" src="https://github.com/user-attachments/assets/200fb614-100c-41c8-9b98-3a103187787b" />
+
+
+## Student Dashboard
+<img width="588" height="390" alt="Screenshot 2026-04-27 145851" src="https://github.com/user-attachments/assets/e1d374c2-ee5c-40d3-84fa-3099496c75ff" />
+
